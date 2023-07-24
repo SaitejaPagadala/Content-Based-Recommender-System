@@ -3,6 +3,8 @@ This repo will have content-based recommender system project files
 
 # Building a Content-Based Movie Recommendation System in Python
 
+Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
 Recommendation systems are an important part of many online platforms. In this post, I'll walk through building a simple content-based movie recommendation system in Python. 
 
 Content-based recommendation relies on item metadata and descriptions to find similarities and make suggestions. This is in contrast to collaborative filtering systems which use historical user behavior and ratings data to make recommendations.
